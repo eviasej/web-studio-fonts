@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "web-studio-fonts",
+			"path": "."
+		},
+		{
+			"path": "../web-studio/generalimages"
+		},
+		{
+			"path": "../web-studio/images2"
+		},
+		{
+			"path": "../web-studio/imagesteam"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-studio-fonts",
+		"liveServer.settings.port": 5503
+	}
+}
